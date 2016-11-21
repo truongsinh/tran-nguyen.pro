@@ -1,0 +1,35 @@
+{
+  "name": "tran-nguyen.pro",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/truongsinh/tran-nguyen.pro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/truongsinh/tran-nguyen.pro/issues"
+  },
+  "homepage": "https://github.com/truongsinh/tran-nguyen.pro#readme",
+  "devDependencies": {
+    "jspm": "^0.16.48"
+  },
+  "jspm": {
+    "dependencies": {
+      "react": "npm:react@^15.4.0",
+      "react-dom": "npm:react-dom@^15.4.0"
+    },
+    "devDependencies": {
+      "typescript": "npm:typescript@^2.0.7"
+    }
+  },
+  "dependencies": {
+    "@types/react": "^0.14.50",
+    "@types/react-dom": "^0.14.19"
+  }
+}
