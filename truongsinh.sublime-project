@@ -1,0 +1,22 @@
+ {
+	"folders":
+	[
+		{
+			"path": "."
+		}
+	],
+	"settings":
+    {
+        "tab_size": 8,
+        "typescript": {
+        	"typescript_tsdk": "<path to your folder>/node_modules/typescript/lib"
+        }
+    },
+    "build_systems":
+    [
+        {
+            "name": "List",
+            "shell_cmd": "ls -l"
+        }
+    ]
+}

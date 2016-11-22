@@ -1,0 +1,50 @@
+{
+    "compilerOptions": {
+    	"allowJs": false,
+    	"allowSyntheticDefaultImports": false,
+    	"allowUnreachableCode": false,
+    	"allowUnusedLabels": false,
+    	"declaration": false,
+    	"diagnostics": true,
+    	"disableSizeLimit": true,
+    	"emitBOM": false,
+    	"emitDecoratorMetadata": true,
+    	"experimentalDecorators": true,
+    	"forceConsistentCasingInFileNames": true,
+    	"inlineSourceMap":false,
+    	"inlineSources": false,
+    	"isolatedModules": false,
+    	"jsx": "react",
+    	"lib": ["es5", "dom", "es2015.promise"],
+    	"listEmittedFiles": true,
+    	"listFiles": true,
+        "module": "system",
+        "moduleResolution": "node",
+        "noEmit": false,
+        "noEmitHelpers": false,
+        "noEmitOnError": false,
+        "noFallthroughCasesInSwitch": true,
+        "noImplicitAny": true,
+        "noImplicitReturns": true,
+        "noImplicitThis": true,
+        "noImplicitUseStrict": false,
+        "noLib": false,
+        "noResolve": false,
+        "noUnusedLocals": false,
+        "noUnusedParameters": true,
+        "outDir": "./build",
+        "reactNamespace": "React",
+        "preserveConstEnums": true,
+        "removeComments": true,
+        "sourceMap": true,
+        "strictNullChecks": true,
+        "target": "es5"
+    },
+    "include": [
+        "src/**/*"
+    ],
+    "exclude": [
+        "node_modules",
+        "**/*.spec.ts"
+    ]
+}

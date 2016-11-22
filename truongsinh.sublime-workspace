@@ -1,0 +1,1084 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"num",
+				"Number\tinterface"
+			],
+			[
+				"He",
+				"Hello6\tinterface"
+			],
+			[
+				"Hll",
+				"Hello6\tinterface"
+			],
+			[
+				"Hell",
+				"Hello5\tvar"
+			],
+			[
+				"System",
+				"SystemJSLoader\tmodule"
+			],
+			[
+				"minf",
+				"minifiedPathMap"
+			],
+			[
+				"as",
+				"asMin"
+			],
+			[
+				"render",
+				"renderScene"
+			],
+			[
+				"User",
+				"UserUpdateByFbIdView\tfunc(c *gin.Context) ν"
+			],
+			[
+				"user",
+				"UserUpdateByFbIdView\tfunc(c *gin.Context) ν"
+			],
+			[
+				"L",
+				"Log\t ƒ"
+			],
+			[
+				"pre",
+				"prepareUpdateSerivceUpsert\t ƒ"
+			],
+			[
+				"Env",
+				"Getenv\tstring ƒ"
+			],
+			[
+				"update",
+				"updateServiceModel\tfunc(u *User) error ν"
+			],
+			[
+				"Pr",
+				"Provider\t[]string ν"
+			],
+			[
+				"Qu",
+				"QueryRow\t*sql.Row ƒ"
+			],
+			[
+				"A",
+				"AvatarUrl\tstring ν"
+			],
+			[
+				"F",
+				"FullName\tstring ν"
+			],
+			[
+				"b",
+				"batchResponseStruct\tstruct ʈ"
+			],
+			[
+				"Post",
+				"PostForm\tresp *http.Response, err error ƒ"
+			],
+			[
+				"batc",
+				"BatchRequest\tres *http.Response ƒ"
+			],
+			[
+				"So",
+				"SocnetToken\tstring ν"
+			],
+			[
+				"S",
+				"StatusCode\tint ν"
+			],
+			[
+				"StatusBad",
+				"StatusBadRequest\t Ɩ"
+			],
+			[
+				"E",
+				"Errors\tgin.errorMsgs ν"
+			],
+			[
+				"StatusBa",
+				"StatusBadRequest\t Ɩ"
+			],
+			[
+				"Abo",
+				"AbortWithStatus\t ƒ"
+			],
+			[
+				"Lo",
+				"Logf\t ƒ"
+			],
+			[
+				"au",
+				"userAuthenticateView\tfunc(c *gin.Context) ν"
+			],
+			[
+				"l",
+				"logrus\t package ρ"
+			],
+			[
+				"P",
+				"POST\t ƒ"
+			],
+			[
+				"Gr",
+				"RouterGroup\t*gin.RouterGroup ν"
+			],
+			[
+				"we",
+				"weightSum"
+			],
+			[
+				"wi",
+				"weight"
+			],
+			[
+				"Prin",
+				"Printf\tn int, err error ƒ"
+			],
+			[
+				"prio",
+				"priority"
+			],
+			[
+				"prot",
+				"prototype"
+			],
+			[
+				"cons",
+				"constructor"
+			],
+			[
+				"def",
+				"definition\talias"
+			],
+			[
+				"_cre",
+				"_createListView\tmethod"
+			],
+			[
+				"st",
+				"StackLayout"
+			],
+			[
+				"sl",
+				"slackToken"
+			],
+			[
+				"slc",
+				"slack"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/index.tsx",
+			"settings":
+			{
+				"buffer_size": 384,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/hello.tsx",
+			"settings":
+			{
+				"buffer_size": 437,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 879,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/proxy.d.ts",
+			"settings":
+			{
+				"buffer_size": 57,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/index.js",
+			"settings":
+			{
+				"buffer_size": 3470,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/hello.js",
+			"settings":
+			{
+				"buffer_size": 1715,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/hello2.d.ts",
+			"settings":
+			{
+				"buffer_size": 160,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/index.d.ts",
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/hello1.d.ts",
+			"settings":
+			{
+				"buffer_size": 157,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					""
+				],
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					"Test"
+				],
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					"Install"
+				],
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					"Cross-Compile (Interactive)"
+				],
+				[
+					"Packages/Golang Build/Go.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Golang Build/Go.sublime-build",
+				"Test"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"last_filter": "Package Control: up",
+		"selected_items":
+		[
+			[
+				"Package Control: up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"gosub",
+				"GoSublime: Browse Packages"
+			],
+			[
+				"brow",
+				"GoSublime: Browse Packages"
+			],
+			[
+				"browse",
+				"GoSublime: Browse Packages"
+			],
+			[
+				"gosublime",
+				"GoSublime: Browse Packages"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 319.0,
+		"history":
+		[
+			"clear",
+			"clean",
+			"js_format",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/truongsinh/Development/tran-nguyen.pro",
+		"/Users/truongsinh/Development/tran-nguyen.pro/jspm_packages/npm",
+		"/Users/truongsinh/Development/tran-nguyen.pro/jspm_packages/npm/typescript@2.1.1",
+		"/Users/truongsinh/Development/tran-nguyen.pro/node_modules",
+		"/Users/truongsinh/Development/tran-nguyen.pro/node_modules/@types",
+		"/Users/truongsinh/Development/tran-nguyen.pro/node_modules/@types/react",
+		"/Users/truongsinh/Development/tran-nguyen.pro/node_modules/@types/systemjs",
+		"/Users/truongsinh/Development/tran-nguyen.pro/src"
+	],
+	"file_history":
+	[
+		"/Users/truongsinh/Library/Application Support/Sublime Text 3/Packages/User/TypeScript.sublime-settings",
+		"/Users/truongsinh/Library/Application Support/Sublime Text 3/Packages/TypeScript/TypeScript.sublime-settings",
+		"/Users/truongsinh/Development/tran-nguyen.pro/src/hello.tsx",
+		"/Users/truongsinh/Development/tran-nguyen.pro/src/proxy.d.ts",
+		"/Users/truongsinh/Development/tran-nguyen.pro/CNAME",
+		"/Users/truongsinh/Development/tran-nguyen.pro/src/hello2.tsx",
+		"/Users/truongsinh/Development/tran-nguyen.pro/src/index.tsx",
+		"/Users/truongsinh/Development/tran-nguyen.pro/src/hello.d.ts",
+		"/Users/truongsinh/Development/tran-nguyen.pro/.gitignore",
+		"/Users/truongsinh/Development/tran-nguyen.pro/index.html",
+		"/Users/truongsinh/Development/tran-nguyen.pro/config.js",
+		"/Users/truongsinh/Development/tran-nguyen.pro/src/index.js",
+		"/Users/truongsinh/Development/tran-nguyen.pro/src/index.d.ts",
+		"/Users/truongsinh/Development/npm-http-server/index.html",
+		"/Users/truongsinh/Development/npm-http-server/modules/PackageUtils.js",
+		"/Users/truongsinh/Development/npm-http-server/cart-summary-test.js",
+		"/Users/truongsinh/Development/npm-http-server/modules/cart-summary-test.js",
+		"/Users/truongsinh/Downloads/d/HelloWorld.java",
+		"/Users/truongsinh/Downloads/d/hello.java",
+		"/Users/truongsinh/Development/bnwie/backend/src/bnwie/user/model/upsert.go",
+		"/Users/truongsinh/Development/bnwie/backend/src/bnwie/user/model/update-service.go",
+		"/Users/truongsinh/Development/bnwie/backend/src/bnwie/user/cv/authenticate_test.go",
+		"/Users/truongsinh/Development/bnwie/backend/src/bnwie/user/cv/authenticate.go",
+		"/Users/truongsinh/Development/bnwie/backend/src/bnwie/user/cv/update.go",
+		"/Users/truongsinh/Development/bnwie/backend/src/bnwie/user/cv/update_test.go",
+		"/Users/truongsinh/Development/bnwie/backend/src/vendor/google.golang.org/appengine/log/log.go",
+		"/Users/truongsinh/Development/bnwie/backend/src/bnwie/user/model/upser_test.go",
+		"/Users/truongsinh/Development/bnwie/backend/src/bnwie/user/model/main_test.go",
+		"/Users/truongsinh/Development/bnwie/backend/src/bnwie/main.go",
+		"/Users/truongsinh/Development/bnwie/backend/src/bnwie/user/main_test.go",
+		"/Users/truongsinh/Development/bnwie/backend/src/bnwie/user/model/update-service_test.go",
+		"/Users/truongsinh/Development/bnwie/backend/src/bnwie/user/authenticate.go",
+		"/Users/truongsinh/Development/bnwie/backend/src/bnwie/user/model/main.go",
+		"/Users/truongsinh/Development/bnwie/backend/backend.sublime-project",
+		"/Users/truongsinh/Development/bnwie/backend/src/bnwie/user/integrate_test.go",
+		"/Users/truongsinh/Development/bnwie/backend/src/vendor/github.com/gin-gonic/contrib/commonlog/commonlog.go",
+		"/Users/truongsinh/Development/bnwie/backend/src/bnwie/user/cv/main_test.go",
+		"/browser",
+		"/Users/truongsinh/Development/bnwie/backend/src/vendor/github.com/lib/pq/conn.go",
+		"/Users/truongsinh/Library/Application Support/Sublime Text 3/Packages/GoSublime/9o.md",
+		"/Users/truongsinh/Development/bnwie/backend/src/github.com/Smarp/socnet/state.go",
+		"/Users/truongsinh/Development/bnwie/backend/src/bnwie/user/authenticate_test.go",
+		"/Users/truongsinh/Development/bnwie/backend/src/vendor/github.com/gin-gonic/contrib/ginrus/ginrus.go",
+		"/Users/truongsinh/Development/bnwie/backend/src/github.com/Smarp/socnet/facebook/profile.go",
+		"/Users/truongsinh/Library/Application Support/Sublime Text 3/Packages/User/GoSublime.sublime-settings",
+		"/Users/truongsinh/Library/Application Support/Sublime Text 3/Packages/User/golang.sublime-settings",
+		"/Users/truongsinh/Development/bnwie/backend/src/github.com/Smarp/socnet/profile.go",
+		"/Users/truongsinh/Development/bnwie/backend/src/github.com/Smarp/socnet/facebook/batch.go",
+		"/Users/truongsinh/Development/bnwie/backend/src/github.com/Smarp/socnet/facebook/new.go",
+		"/Users/truongsinh/Development/bnwie/backend/src/github.com/Smarp/socnet/facebook/init.go",
+		"/Users/truongsinh/Development/bnwie/backend/src/github.com/Smarp/socnet/share.go",
+		"/Users/truongsinh/Development/bnwie/backend/src/github.com/Smarp/socnet/facebook/share.go",
+		"/Users/truongsinh/Development/bnwie/backend/src/github.com/Smarp/socnet/facebook/error_response.go",
+		"/Users/truongsinh/Development/bnwie/backend/src/github.com/Smarp/socnet/interface.go",
+		"/Users/truongsinh/Development/bnwie/backend/src/bnwie/user/view.go",
+		"/Users/truongsinh/Development/bnwie/backend/src/bnwie/socnet/facebook/new.go",
+		"/Users/truongsinh/Development/bnwie/backend/src/bnwie/socnet/facebook/profile.go",
+		"/Users/truongsinh/Development/bnwie/backend/src/bnwie/socnet/interface.go",
+		"/Users/truongsinh/Development/bnwie/backend/src/glide.yaml",
+		"/Users/truongsinh/Development/bnwie/backend/src/vendor/github.com/gin-gonic/gin/context.go",
+		"/Users/truongsinh/Development/bnwie/backend/src/vendor/github.com/gin-gonic/gin/routergroup.go"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 94.0,
+		"where_history":
+		[
+			"/Users/truongsinh/Development/bnwie/backend/src/github.com/Smarp",
+			"/Users/truongsinh/Development/bnwie/backend/src/github.com/Smarp/socnet",
+			"/Users/truongsinh/Development/bnwie/backend/src/bnwie",
+			"/Users/truongsinh/Development/kanban",
+			"/Users/truongsinh/Development/smarpshare/frontend",
+			"/Users/truongsinh/Development/kanban/src",
+			"/Users/truongsinh/Development/kanban/src/board",
+			"/Users/truongsinh/Development/kanban/src",
+			"/Users/truongsinh/Development/kanban",
+			"/Users/truongsinh/Development/prerender",
+			"/Users/truongsinh/Development/kanban/src/gitlab.com/leanlabsio/kanban",
+			"/Users/truongsinh/Development/kanban/src/gitlab.com/leanlabsio/kanban/src",
+			"/Users/truongsinh/Development/kanban/src/gitlab.com/leanlabsio/kanban",
+			"/Users/truongsinh/Development/kanban/src/gitlab.com/leanlabsio/kanban/modules",
+			"/Users/truongsinh/Development/kanban/src/gitlab.com/leanlabsio/kanban/modules/gitlab",
+			"/Users/truongsinh/Development/kanban/src/gitlab.com/leanlabsio/kanban",
+			"/Users/truongsinh/Development/kanban/src/gitlab.com/leanlabsio/kanban/src",
+			"/Users/truongsinh/Development/kanban/src/gitlab.com/leanlabsio/kanban",
+			"/Users/truongsinh/Development/kanban/src/gitlab.com/leanlabsio/kanban/src",
+			"/Users/truongsinh/Development/kanban/src/gitlab.com/leanlabsio/kanban",
+			"/Users/truongsinh/Development/kanban/src/gitlab.com/leanlabsio/kanban/src",
+			"/Users/truongsinh/Development/kanban/src/gitlab.com/leanlabsio/kanban/node_modules",
+			"/Users/truongsinh/Development/kanban/src/gitlab.com/leanlabsio/kanban/src",
+			"/Users/truongsinh/Development/kanban/src/gitlab.com/leanlabsio/kanban/src/board/controllers",
+			"/Users/truongsinh/Development/kanban/src/gitlab.com/leanlabsio/kanban/src",
+			"/Users/truongsinh/Development/kanban/src/gitlab.com/leanlabsio/kanban/modules",
+			"/Users/truongsinh/Development/tns/app",
+			"/Users/truongsinh/Development/tns/app/mainpage",
+			"/Users/truongsinh/Development/moment/node_modules/esperanto",
+			"/Users/truongsinh/Development/moment",
+			"/Users/truongsinh/Development/tns/app/tns_modules",
+			"/Users/truongsinh/Development/tns/app/mainpage",
+			"/Users/truongsinh/Development/tns",
+			"/Users/truongsinh/Development/tns/app/tns_modules",
+			"/Users/truongsinh/Development/tns/app/tns_modules/ui/refreshable-list-view",
+			"/Users/truongsinh/Development/smarpshare/frontend/frontend/app.modules",
+			"ng.ng",
+			"/Users/truongsinh/Development/smarpshare/frontend/frontend/app.modules",
+			"/Users/truongsinh/Development/smarpshare/frontend/frontend/test",
+			"/Users/truongsinh/Development/smarpshare/frontend/frontend",
+			"/Users/truongsinh/Development/tns/app/tns_modules/ui",
+			"/Users/truongsinh/Development/tns/app/tns_modules/ui/builder",
+			"/Users/truongsinh/Development/tns/app/tns_modules",
+			"/Users/truongsinh/Development/tns/app/tns_modules/ui",
+			"/Users/truongsinh/Development/tns/lib/iOS",
+			"/Users/truongsinh/Development/slack-sns"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"then",
+			"__generator",
+			"generator",
+			"exports_1",
+			"SystemJSLoader",
+			"SystemJS",
+			"compon",
+			"typescript",
+			"typescriptOptions",
+			"packages",
+			";",
+			"asMin",
+			"packageName",
+			"queryIsValid",
+			"query",
+			"parsePackageURL",
+			"invalid",
+			"sendser",
+			"main",
+			"server.",
+			"consol",
+			"resolveFile",
+			"resolve",
+			"handleRequest",
+			"createRequestHandler",
+			"export const ",
+			"options",
+			"createRequestHandler",
+			"TestUserAuthCtrl",
+			"Smarp",
+			"smarp",
+			"print",
+			"picture",
+			"adsadasdasdasd",
+			"profileStruct",
+			"andon",
+			"addon",
+			"properties.andon",
+			"andon",
+			"AllowInvalidNodes",
+			"exitnode",
+			"json",
+			"4.3.1",
+			"unction",
+			"\tunction",
+			"weig",
+			"W ",
+			"weightSu",
+			"weight",
+			"this.weightSum",
+			"weight_regexp.match",
+			"match",
+			"getWeight",
+			"stagelabels",
+			"listWeights",
+			"this.weights",
+			".weight",
+			"this.counts",
+			".counts",
+			"stageName",
+			"priority",
+			".priority",
+			"priority_regexp",
+			"priority",
+			"properties.andon",
+			"ready for next stage",
+			"as ready",
+			"asready",
+			"as ready",
+			"openjdk-7-jdk",
+			"ANT_HOME",
+			"java",
+			"ARCH",
+			"bash",
+			".getUrl",
+			"escaped",
+			"onPhantomCreate",
+			"beforePhantomRequest",
+			"# ",
+			"process.env",
+			"encodeHash",
+			"#!",
+			"/",
+			"callPhantom",
+			"outputPath",
+			"smarp",
+			"stage_regexp",
+			"defaultStages",
+			"prio",
+			"remove",
+			"last",
+			"close",
+			"clean",
+			".ListCard",
+			"as-sortable",
+			"stage_regexp",
+			"byStage",
+			"groups",
+			"stageName",
+			"priori",
+			"BoardService.get",
+			"addOptions(",
+			"addOptions",
+			"/router",
+			"type DataSource",
+			"interface DataSource",
+			"ListIssues",
+			"func addOptions",
+			"addOptions",
+			"getUrl",
+			"func getUrl(",
+			"getUrl",
+			"ListOptions",
+			"angular-ui-router",
+			"roadmap",
+			"ugli",
+			"ugl",
+			"grunt",
+			"watch",
+			"ugli",
+			"project_id",
+			"row collapse card",
+			"this.byStage",
+			".byStage",
+			"this.byStage",
+			"function (element, index, items)",
+			"this.byStage",
+			"byStage"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"8.0.0",
+			"parent",
+			"",
+			"export function",
+			"ng",
+			"ng.auto.",
+			"icon_emoji",
+			"Android"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/index.tsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 384,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15,
+								15
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScriptReact.tmLanguage",
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": false,
+								"indentSize": 4,
+								"tabSize": 4
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/hello.tsx",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 437,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScriptReact.tmLanguage",
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 879,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								738,
+								738
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/proxy.d.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 57,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								55,
+								55
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3470,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								594,
+								598
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 4,
+								"tabSize": 4
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 380.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/hello.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1715,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/hello2.d.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 160,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": false,
+								"indentSize": 4,
+								"tabSize": 4
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "src/index.d.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "src/hello1.d.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 157,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o:///Users/truongsinh/Development/bnwie/backend":
+	{
+		"height": 100.0
+	},
+	"output.9o:///Users/truongsinh/Development/bnwie/backend/src":
+	{
+		"height": 314.0
+	},
+	"output.9o:///Users/truongsinh/Development/bnwie/backend/src/bnwie":
+	{
+		"height": 262.0
+	},
+	"output.9o:///Users/truongsinh/Development/bnwie/backend/src/bnwie/user":
+	{
+		"height": 238.0
+	},
+	"output.9o:///Users/truongsinh/Development/bnwie/backend/src/bnwie/user/cv":
+	{
+		"height": 277.0
+	},
+	"output.9o:///Users/truongsinh/Development/bnwie/backend/src/bnwie/user/model":
+	{
+		"height": 222.0
+	},
+	"output.9o:///Users/truongsinh/Library/Application Support/Sublime Text 3/Packages/GoSublime":
+	{
+		"height": 317.0
+	},
+	"output.GoSublime-main-output":
+	{
+		"height": 100.0
+	},
+	"output.MarGo-output":
+	{
+		"height": 100.0
+	},
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.golang_build":
+	{
+		"height": 219.0
+	},
+	"pinned_build_system": "Packages/GoSublime/GoSublime.sublime-build",
+	"project": "truongsinh.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 217.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
