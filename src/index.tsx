@@ -1,19 +1,26 @@
+import * as React from "react";
+import * as ReactDOM from "react-dom";
+import { AppContainer } from "react-hot-loader";
+import App from "./App";
 
-/// <reference types="systemjs" />
-/// <reference path="./proxy.d.ts" />
-import * as React from 'react'
-import {render} from 'react-dom'
-// import {Hello} from './hello'
+const rootEl = document.getElementById("root");
+ReactDOM.render(
+    <AppContainer>
+        <App />
+    </AppContainer>,
+    rootEl
+);
 
-async function main() {
-	let a = System.import('./hello');
-	// myLib.Hello
-	let Hello = (await a).Hello as myElement.Hello;
-
-	render(
-	  <Hello />,
-	  document.getElementById('root')
-	);
-
+// Hot Module Replacement API
+if (module.hot) {
+  module.hot.accept("./App", () => {
+    const NextApp = require("./App").default;
+    ReactDOM.render(
+      <AppContainer>
+        <NextApp/>
+      </AppContainer>
+      ,
+      rootEl
+    );
+  });
 }
-main()

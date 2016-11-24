@@ -1,11 +1,17 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
-  <body>
-  	<div id="root"></div>
-    <script src="jspm_packages/system.js"></script>
-    <script src="config.js"></script>
-    <script>
-      System.import('./index').then(undefined, console.error.bind(console));
-    </script>
-  </body>
+    <head>
+        <meta charset="UTF-8" />
+        <title>Hello React!</title>
+    </head>
+    <body>
+        <div id="root"></div>
+
+        <!-- Dependencies -->
+        <script src="./node_modules/react/dist/react.js"></script>
+        <script src="./node_modules/react-dom/dist/react-dom.js"></script>
+
+        <!-- Main -->
+        <script src="/static/bundle.js"></script>
+    </body>
 </html>

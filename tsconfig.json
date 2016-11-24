@@ -18,7 +18,7 @@
     	"lib": ["es5", "dom", "es2015.promise"],
     	"listEmittedFiles": true,
     	"listFiles": true,
-        "module": "system",
+        "module": "commonjs",
         "moduleResolution": "node",
         "noEmit": false,
         "noEmitHelpers": false,
