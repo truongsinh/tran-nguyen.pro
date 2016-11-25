@@ -18,18 +18,19 @@
   },
   "homepage": "https://github.com/truongsinh/tran-nguyen.pro#readme",
   "devDependencies": {
-    "@types/react": "^0.14.50",
-    "@types/react-dom": "^0.14.19",
-    "awesome-typescript-loader": "^3.0.0-beta.3",
-    "react-hot-loader": "^3.0.0-beta.6",
-    "source-map-loader": "^0.1.5",
-    "ts-loader": "^1.2.2",
-    "typescript": "^2.1.1",
-    "webpack": "^1.13.3",
-    "webpack-dev-server": "^1.16.2"
+    "@types/react": "0.14.50",
+    "@types/react-dom": "0.14.19",
+    "awesome-typescript-loader": "3.0.0-beta.3",
+    "enhanced-resolve": "^2.3.0",
+    "react-hot-loader": "3.0.0-beta.6",
+    "source-map-loader": "0.1.5",
+    "ts-loader": "1.2.2",
+    "typescript": "2.1.1",
+    "webpack": " 1.13.3",
+    "webpack-dev-server": "1.16.2"
   },
   "dependencies": {
-    "react": "^15.4.1",
-    "react-dom": "^15.4.1"
+    "react": "15.4.1",
+    "react-dom": "15.4.1"
   }
 }
