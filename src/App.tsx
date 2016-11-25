@@ -1,14 +1,14 @@
 import * as React from "react";
 
 export default class App extends React.Component<any, any> {
-	constructor(...arg){
-		super(...arg)
-		this.state = {}
+	private state = {}
+	componentDidMount(){
 		setInterval(()=>{
 			this.setState({
-				counter: (this.state.counter || 0) + 1
+				counter: (this.state.counter || 0) - 1
 			})
 		}, 1000)
+		
 	}
     render() {
         return (
