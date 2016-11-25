@@ -1,10 +1,13 @@
 const webpack = require("webpack");
 const path = require("path");
+const package = require("./package");
 
 module.exports = {
-    entry: [
-        "./src/index.tsx",
-    ],
+    entry: {
+        index: "./src/index.tsx",
+        vendor: Object.keys(package.dependencies),
+    }
+    ,
     output: {
         path: path.join(__dirname, 'dist'),
         filename: "bundle.js",
@@ -26,6 +29,7 @@ module.exports = {
             }
         }),
         new webpack.HotModuleReplacementPlugin(),
+        new webpack.optimize.CommonsChunkPlugin(/* chunkName= */"vendor", /* filename= */"vendor.bundle.js"),
     ],
 
     module: {
@@ -43,6 +47,10 @@ module.exports = {
         ],
 
         preLoaders: [
+            {
+                test: /\.tsx?$/,
+                loader: 'tslint-loader'
+            },
             // All output '.js' files will have any sourcemaps re-processed by 'source-map-loader'.
             { test: /\.js$/, loader: "source-map-loader" }
         ]

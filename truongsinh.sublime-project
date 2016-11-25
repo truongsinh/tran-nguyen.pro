@@ -7,9 +7,9 @@
 	],
 	"settings":
     {
-        "tab_size": 8,
+        "tab_size": 4,
         "typescript": {
-        	"typescript_tsdk": "<path to your folder>/node_modules/typescript/lib"
+        	"typescript_tsdk": "./node_modules/typescript/lib"
         }
     },
     "build_systems":
